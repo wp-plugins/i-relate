@@ -33,9 +33,6 @@ This section describes how to install the plugin and get it working.
 2. Upload the 'Relate IT' directory to your '/wp-content/plugins/' directory, using your favorite method (ftp, sftp, scp, etc...)
 3. Activate Relate IT from your Plugins page and the plugin gets in action.
 
-== Screenshots ==
-
-No screenshots found.
 
 == Frequently Asked Questions ==
 
