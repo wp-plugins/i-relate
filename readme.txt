@@ -17,6 +17,8 @@ Simple and fastest WordPress Plugin to add 3 related posts at the end of the blo
 
 Just Install the plugin and it is ready to go.
 
+=Guranteed Fastest Plugin Ever To Show Related Posts=
+
 == Installation ==
 
 This section describes how to install the plugin and get it working.
