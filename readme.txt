@@ -3,7 +3,7 @@ Contributors: apoorv79
 Donate link: http://rareinput.com/donate
 Tags: related posts, related articles, random articles, relate, posts, feed, feeds similar, similar posts
 Requires at least: 3.0.1
-Tested up to: 3.4
+Tested up to: 4.2.3
 Stable tag: 4.3
 Stable Release: 1.0
 License: GPLv2 or later
@@ -24,14 +24,14 @@ This section describes how to install the plugin and get it working.
 **Automatic Installation**
 
 1. Visit 'Plugins > Add New'
-2. Search for 'Relate IT'
-3. Activate Relate IT from your Plugins page and the plugin gets in action.
+2. Search for 'i Relate'
+3. Activate i Relate from your Plugins page and the plugin gets in action.
 
 **From WordPress.org**
 
-1. Download Relate IT.
-2. Upload the 'Relate IT' directory to your '/wp-content/plugins/' directory, using your favorite method (ftp, sftp, scp, etc...)
-3. Activate Relate IT from your Plugins page and the plugin gets in action.
+1. Download i Relate.
+2. Upload the 'i Relate' directory to your '/wp-content/plugins/' directory, using your favorite method (ftp, sftp, scp, etc...)
+3. Activate i relate from your Plugins page and the plugin gets in action.
 
 
 == Frequently Asked Questions ==
